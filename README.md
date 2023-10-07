@@ -1,6 +1,6 @@
 # How To use MySQL Workbench DarkTheme ?
 
-* Backup file code_editor.xml in your operating system from the below destination
+* Backup file code_editor.xml in your machine from the below destination
   According to the operating system
 
 ````
