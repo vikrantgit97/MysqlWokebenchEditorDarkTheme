@@ -1,13 +1,8 @@
-# How To use this MySQL Workbench DarkTheme ?
+# How To use MySQL Workbench DarkTheme ?
 
-* Backup file code_editor.xml in your operating system
+* Backup file code_editor.xml in your operating system from the below destination
+  According to the operating
 
-* Replace the content of code_editor.xml 
- or Replace the file
-from the below destination
-According to the operating 
-system with the provided code_editor.xml file in this project
-  
 ````
 Ubuntu  
 /usr/share/mysql-workbench/data/code_editor.xml
@@ -18,6 +13,11 @@ C:\Program Files\MySQL\MySQL Workbench X.X\data\code_editor.xml
 MacOS
 Contents/Resources/data/code_editor.xml
 ````
+* Replace the content of code_editor.xml 
+ or Replace the file
+  from the above destination
+  According to the operating
+  system with the provided code_editor.xml file in this project
 
 ## Ubuntu Linux MySQL Workbench DarkTheme
 ![img.png](image/UbuntuLinuxMysqldarkTheme.png)
