@@ -4,7 +4,7 @@
   According to the operating system
 
 ````
-Ubuntu  
+Ubuntu (LINUX OS) 
 /usr/share/mysql-workbench/data/code_editor.xml
 
 Windows
