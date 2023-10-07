@@ -17,7 +17,9 @@ Contents/Resources/data/code_editor.xml
  or Replace the file
   from the above destination
   According to the operating
-  system with the provided code_editor.xml file in this project
+  system with the provided code_editor.xml file in this project.
+
+* Now relaunch MySQL workbench to see changes.
 
 ## Ubuntu Linux MySQL Workbench DarkTheme
 ![img.png](image/UbuntuLinuxMysqldarkTheme.png)
