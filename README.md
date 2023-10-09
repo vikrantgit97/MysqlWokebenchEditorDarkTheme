@@ -13,6 +13,7 @@ C:\Program Files\MySQL\MySQL Workbench X.X\data\code_editor.xml
 MacOS
 Contents/Resources/data/code_editor.xml
 ````
+
 * Replace the content of code_editor.xml 
  or Replace the file
   from the above destination
