@@ -29,5 +29,5 @@ Contents/Resources/data/code_editor.xml
 ![img.png](image/WindowsMysqldarkTheme.png)
 
 * [ Install Ubuntu or any LINUX OS for Development (Recommended)  ]
-  (https://releases.ubuntu.com/jammy/)
+  (https://releases.ubuntu.com/noble/)
   <img src="https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg" style="height: 40px">
